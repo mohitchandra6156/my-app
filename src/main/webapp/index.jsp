@@ -2,7 +2,7 @@
     <style> 
         .main1{
             background-color: aqua; 
-            color: aliceblue;
+            color: black;
         }
     </style>
 <body class="main1">
