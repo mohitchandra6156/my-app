@@ -2,7 +2,6 @@
     <style> 
         .main1{
             background-color: black; 
-            color: red;
         }
     </style>
 <body class="main1">
