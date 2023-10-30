@@ -1,8 +1,8 @@
 <html> 
     <style> 
         .main1{
-            background-color: aqua; 
-            color: black;
+            background-color: black; 
+            color: red;
         }
     </style>
 <body class="main1">
