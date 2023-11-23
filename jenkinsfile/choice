@@ -1,7 +1,7 @@
 pipeline {
     agent {label "app"}
     parameters{
-        choice(choices:["172.17.0.3" , "172.17.0.4"] , description: "which environment to deploy ?" , name: "deployEnv" )
+          choice choices: ['172.17.0.3', '172.17.0.4'], description: 'kk', name: 'deployEnv'
     }
     stages {
         stage("clone")
