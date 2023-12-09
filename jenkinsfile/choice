@@ -1,5 +1,7 @@
 pipeline {
-    agent {label "app"}
+    agent {
+        label 'demm' 
+    }
     parameters{
           choice choices: ['172.17.0.3', '172.17.0.4'], description: 'kk', name: 'deployEnv'
     }
