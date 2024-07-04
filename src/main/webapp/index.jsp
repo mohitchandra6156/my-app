@@ -148,9 +148,9 @@ nav .menu{
     <div class="title">Create Amazing Website</div>
     <div class="sub_title">Pure HTML & CSS Only</div>
     <div class="btns">
-      <button>Learning</button>
-      <button>Manual</button> 
-      <button>deployment</button>
+      <button>Delhi</button>
+      <button>Mumvai</button> 
+      <button>Goa</button>
     </div>
   </div>
 </body>
